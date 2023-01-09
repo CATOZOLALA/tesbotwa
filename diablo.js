@@ -23,7 +23,7 @@ chats: {},
 }
 
 global.ownerName = 'alesyaa'
-global.ownerNumber = ["6281389368689@s.whatsapp.net"]
+global.ownerNumber = ["6281998199848@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
